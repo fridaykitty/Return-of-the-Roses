@@ -1,9 +1,9 @@
 {
     "pack": {
-        "pack_format": 4,
-    "min_format": 4,
+        "pack_format": 34,
+    "min_format": 34,
     "max_format": 69,
-		"supported_formats": {"min_inclusive": 4, "max_inclusive": 69},
+		"supported_formats": {"min_inclusive": 34, "max_inclusive": 69},
         "description": "Bring back the Rose \n(Faithful 64x)"
     }
 }
